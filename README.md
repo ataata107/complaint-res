@@ -2,7 +2,6 @@
 
 An agentic AI system that resolves banking complaints end-to-end using LangChain Deep Agents, progressive skill disclosure, and GPT-4o.
 
-<!-- Replace with demo.gif once converted -->
 ![Demo](demo.gif)
 
 ## What it does
